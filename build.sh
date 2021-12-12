@@ -2,4 +2,4 @@
 
 node -v
 
-yarn build
+npm run build
